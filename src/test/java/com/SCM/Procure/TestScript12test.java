@@ -8,6 +8,7 @@ public class TestScript12test {
 	public void testGit1test()
 	{
 		System.out.println("-- git1--");
+		System.out.println("-- git1--");
 	}
 	
 }
